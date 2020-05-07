@@ -6,6 +6,12 @@ Using Node v.10.20.1.
 
 ## How to use
 
+Install:
+
+```
+npm install
+```
+
 Start development server:
 
 ```
